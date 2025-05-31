@@ -1,5 +1,5 @@
 <?php
-namespace OrmWrapper;
+namespace FadliDev\OrmWrapper;
 
 use Illuminate\Database\Capsule\Manager as Capsule;
 

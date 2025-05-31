@@ -3,7 +3,7 @@
         'name' => 'fadli-dev/orm-wrapper',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b080797fa603834846f864640c2e07927c4ad80a',
+        'reference' => 'c2c421e2918907d741c50437f513184dfd94a404',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'fadli-dev/orm-wrapper' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b080797fa603834846f864640c2e07927c4ad80a',
+            'reference' => 'c2c421e2918907d741c50437f513184dfd94a404',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
