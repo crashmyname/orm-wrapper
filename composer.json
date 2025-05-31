@@ -1,13 +1,18 @@
 {
-  "name": "fadli-dev/orm-wrapper",
-  "description": "Library untuk menggunakan Eloquent di PHP Native",
-  "type": "library",
-  "autoload": {
-    "psr-4": {
-      "EloquentWrapper\\": "src/"
-    }
-  },
-  "require": {
-    "illuminate/database": "^9.0"
-  }
+    "name": "fadli-dev/orm-wrapper",
+    "description": "Library untuk menggunakan Eloquent di PHP Native",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "FadliDev\\OrmWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fadli Azka Prayogi",
+            "email": "fadliazkaprayogi1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
