@@ -1,0 +1,13 @@
+{
+  "name": "fadli-dev/orm-wrapper",
+  "description": "Library untuk menggunakan Eloquent di PHP Native",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "EloquentWrapper\\": "src/"
+    }
+  },
+  "require": {
+    "illuminate/database": "^9.0"
+  }
+}
